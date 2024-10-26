@@ -1,2 +1,9 @@
 
-/* Your CSS Code here. */
+#main{
+	color : green;
+	font-size : 20px;
+	padding : 100px
+	margin : 20px;
+	text-align : Center;
+
+}
